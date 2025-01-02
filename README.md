@@ -1,4 +1,4 @@
-This is palsh screen or a loading screen for all The matrix and lord of the rings fun
+This is splash screen or a loading screen for all The matrix and lord of the rings fun
 TECHNOLOGY USED
 HTML
 CSS
