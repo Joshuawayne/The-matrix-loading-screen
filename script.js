@@ -160,7 +160,7 @@ function completeLoading() {
 
         setTimeout(() => {
             // Transition to your main content here
-            alert('Loading complete! Replace this alert with your main content transition.');
+            alert('Loading complete! Get awakend.');
         }, 3000);
     });
 }
